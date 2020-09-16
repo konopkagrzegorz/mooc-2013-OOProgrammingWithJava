@@ -1,7 +1,7 @@
 # mooc-2013-Object Oriented Programming with Java Course
  ## 1st part of Massive Open Online Course taken in University's of Helsinki learning platform.
  [mooc.fi](http://moocfi.github.io/courses/2013/programming-part-1/)
- ### Course consisft of:
+ ### Course consists of:
 * Week 1
   * User input
   * Printing on screen
